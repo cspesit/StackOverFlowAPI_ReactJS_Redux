@@ -1,0 +1,17 @@
+.SearchInputpanel{
+    display: flex;
+    flex-flow : row;
+}
+.SearchResultPanel
+{
+     display: flex;
+    flex-flow: column;
+
+}
+.listing{
+    border: 1px solid lightgrey;
+    margin-top: 10px;
+}
+.SearchComponentContainer{
+    margin:40px;
+}
